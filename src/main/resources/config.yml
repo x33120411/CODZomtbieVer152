@@ -1,0 +1,77 @@
+#爆頭傷害倍率
+HeadShotDamageMultiply: 1.5
+
+#暴頭賺錢倍率
+HeadShotMakeCoinMultiply: 1.2
+
+#預設護甲值
+DefaultArmorValue: 0.95
+
+#護甲值上限
+ArmorMax: 0.35
+
+#購買護甲數值 每次購買護甲的量
+BuyArmorValue: 0.04
+
+#削減購買護甲數值 用於削減每次購買的護甲值 購買護甲數值 - 削減購買護甲數值
+BuyArmorValueMines: 0.002
+
+#最低購買護甲數值 削減購買護甲的最低限度只要削減到此數值就不會再繼續削減
+MinBuyArmorValue: 0.005
+
+#TNT數量
+TNTNum: 1
+
+#機槍塔武器使用率
+GunTurretWeaponUsage: 0.5
+
+#機槍塔武器射程使用率
+GunTurretWeaponActiveRangeUsage: 0.7
+
+#機槍塔攻擊間隔
+GunTurretAttackTime: 1.0
+
+#火槍塔武器使用率
+FireTurretWeaponUsage: 0.2
+
+#怪物拆牆速度
+DestroyWindowTime: 2.5
+
+#進入下一波間隔時間
+NextWaveBetweenTime: 5.0
+
+#預設生成怪物編號
+DefaultSpawnIndex: 1
+
+#抽獎箱價格
+DrawBoxPrice: 1500
+
+#抽中殺傷記數機率
+DrawKillCountChance: 0.2
+
+#取得技能初始擊殺數
+KillCountGetSkillValue: 100
+
+#取得技能擊殺數增加數量 (每次取得技能後取得擊殺數 = 目前擊殺數 + 取得技能擊殺數倍率)
+KillCountGetSkillIncrease: 100
+
+#遊戲起始槍枝
+GameStartGun: Pistal
+
+#無盡模式最少出怪量
+UnlimitedModMinMonster: 5
+
+#無盡模式最高出怪量
+UnlimitedModMaxMonster: 150
+
+#無盡模式怪物數量倍率
+UnlimitedModMonsterNumMultiply: 1.6
+
+#無盡模式怪物提升攻擊力倍率
+UnlimitedModDamageMultiply: 0.05
+
+#無盡模式怪物提升血量倍率
+UnlimitedModHealthMultiply: 0.1
+
+#下雨事件怪物跑速增加倍率
+RainyMonsterMovementMulti: 1.1

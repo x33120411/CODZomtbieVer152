@@ -1,0 +1,15 @@
+MonsterDataList:
+  Vine:
+    Type: ZOMBIE
+    Health: 20
+    Armor: 0.5
+    Damage: 8
+    MovementSpeed: 0.2
+    KnockBackResistance: 0.3
+    SummonTime: 3
+    UnlimitedModSpawnWave: 0
+    UnlimitedModUnSpawnWave: 5
+    Helmet: LEATHER_HELMET
+    Chestplate: LEATHER_CHESTPLATE
+    Leg: LEATHER_LEGGINGS
+    Boot: LEATHER_BOOTS
