@@ -48,15 +48,6 @@ public final class CODZombie extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-
-
-
-
-
-
-
-
-        
         // Pluin startup logic
         Main = this;
         this.getServer().getPluginManager().registerEvents(this, this);
